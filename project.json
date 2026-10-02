@@ -1,0 +1,21 @@
+{
+  "id": 1462,
+  "title": "Robotics Classroom Kit Automatic Measurement",
+  "repository_slug": "robotics-classroom-kit-automatic-measurement",
+  "category": "Education",
+  "platform": "micro:bit",
+  "platform_family": "microbit",
+  "difficulty": "Intermediate",
+  "estimated_hours": 32,
+  "connectivity": "Radio",
+  "components": [
+    "SD card",
+    "assorted sensors",
+    "buttons"
+  ],
+  "scope": "Build a education prototype that uses SD card, assorted sensors, buttons to capture experiment measurements automatically. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Automatic Measurement demonstration with repeatable test steps",
+  "mode": "data_logger",
+  "entrypoint": "firmware/main.py",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
